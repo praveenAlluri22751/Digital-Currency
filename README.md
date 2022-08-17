@@ -1,4 +1,4 @@
-![project](https://img.shields.io/badge/website%20design-0AC18E?style=for-the-badge&logoColor=white)
+# Web Design
 <p> 
 Hi :wave: Coders!
 <br> This is a basic non -responsive website design using HTML & CSS technologies.
