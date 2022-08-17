@@ -8,8 +8,7 @@ body{
     height: 100vh;
 }
 
-
-/* Navbar */
+/* Navigation */
 
 [aria-label="navbar"]{
     width: 100vw;
@@ -49,11 +48,6 @@ body{
     align-items: center;
     font-family: 'Poppins', sans-serif;
 }
-
-/* ::after element after Apps menu */
-
-
-/* ::after element after Apps menu */
 
 
 .list-item{
@@ -111,3 +105,5 @@ body{
     padding: .6rem 3rem;
     margin-top: 1rem;
 }
+
+
