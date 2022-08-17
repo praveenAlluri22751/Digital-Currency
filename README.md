@@ -14,7 +14,7 @@ Hi :wave: Coders!
 
 </ul> 
 
-![clone](https://img.shields.io/badge/How%20to%20Clone-7D4698?style=for-the-badge&logoColor=white)
+![clone](https://img.shields.io/badge/How%20to%20Clone%20this%20project-7D4698?style=for-the-badge&logoColor=white)
 
 <p> go to your local projects and use below command.</p>
 
