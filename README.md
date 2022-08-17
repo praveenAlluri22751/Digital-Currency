@@ -21,7 +21,7 @@ Hi :wave: Coders!
  ``` git clone https://github.com/praveenAlluri22751/Digital-Currency.git ```
 
 
-![learning](https://img.shields.io/badge/Lessons%20Learned%20while%20working%20on%20this%20Project-1997B5?style=for-the-badge&logoColor=white)
+![learning](https://img.shields.io/badge/learning%20curve%20on%20below%20topics%20while%20working%20on%20this%20Project-1997B5?style=for-the-badge&logoColor=white)
 
 <ul>
 
